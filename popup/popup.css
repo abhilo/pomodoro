@@ -1,0 +1,69 @@
+* {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+}
+
+
+
+.bg {
+    width: 19rem;
+    max-height: 40rem;
+    padding: 10px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    padding: 15px 5px;
+    font-size: 1.5rem;
+    font-weight: 300;
+    
+}
+
+.buttons {
+    margin-top: 350px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+
+
+.dialog{
+    width: 10px;
+    height: 10px;
+    padding-left: 35px;
+}
+
+
+.timer1 {
+    position: absolute;
+    bottom: 60px;
+    left: 75px;
+}
+
+
+.selector1 {
+    position: relative;
+    right: 65px;
+    padding: 10px;
+    width: 350px;
+}
+
+#submit {
+    margin: 10px;
+}
+
+
+
+
+.timer {
+
+    display: flex;
+    
+}
+
